@@ -1,6 +1,6 @@
 # Compiling Reason files with just the compiler
 
-Ever wondered whow to compile a [Reason](https://reasonml.github.io/) with just the compiler - without Dune?
+Ever wondered how to compile a [Reason](https://reasonml.github.io/) with just the compiler - without Dune?
 
 Here's a example showing how.
 
