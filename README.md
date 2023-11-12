@@ -13,6 +13,7 @@ Here's a example showing how.
 2. Compile the `.re` by,
 
 	a. Using the `-impl` option to let the compiler know about Reason.
+
 	b. Asking the compiler to preprocess the Reason file with Reason's
 	`refmt`. `refmt` will turn Reason files to OCaml AST in binary
 	format. The compiler loads these binary AST files and proceeds
